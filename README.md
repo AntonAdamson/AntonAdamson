@@ -22,14 +22,14 @@
 </table>
 
 <h1 align="center">Hi 👋, I'm Anton Adamson</h1>
-<h3 align="center">I am a beginner in mobile app development for iOS.</h3>
+<h3 align="center">I am iOS developer.</h3>
 
 <h3 align="left">About me:</h3>
 I have been interested in programming since 2001 when I studied turboPascal in a computer school. 
 I graduated from Omsk State Technical University with a degree in Automated Design Systems, Engineering. 
 In 2015-2016, I became familiar with HTML/CSS and JavaScript. 
 Since December 2022, I have been actively studying the Swift programming language and planning my first project. 
-Additionally, I have practiced writing simple code in C# and Python. Currently, I am improving my skills in using UIKit and am looking for a job.
+Additionally, I have practiced writing simple code in C# and Python.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
